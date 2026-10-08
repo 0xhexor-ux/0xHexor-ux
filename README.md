@@ -1,4 +1,4 @@
-# Hey, I'm 0xHexor 👋
+# Hey, I'm Hexor 👋
 
 ### Building at the intersection of crypto, AI & onchain apps.
 
