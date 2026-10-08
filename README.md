@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hey, I'm 0xHexor 👋
 
-<!--
-**0xhexor-ux/0xHexor-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Building at the intersection of crypto, AI & onchain apps.
 
-Here are some ideas to get you started:
+I'm exploring Web3 by building small, practical projects and learning by shipping.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on:
+
+- ⛓️ Solana & onchain applications
+- 🤖 AI-powered tools
+- 🧪 Experimenting with new Web3 ideas
+- 🛠️ Turning ideas into working prototypes
+
+## 🚀 What I'm building
+
+### Solana Wallet Dashboard
+
+A lightweight dashboard for exploring Solana wallets.
+
+- View SOL balance
+- Explore recent on-chain activity
+- Solana mainnet RPC
+- Helius RPC infrastructure
+- Cloudflare Worker proxy
+- API credentials kept server-side
+
+🔗 [Live Demo](https://0xhexor-ux.github.io/solana-wallet-dashboard-/)
+
+🔗 [Source Code](https://github.com/0xhexor-ux/solana-wallet-dashboard-)
+
+## 🧭 Currently learning
+
+Solana development · Web3 infrastructure · AI · Onchain applications
+
+## 📫 Find me
+
+- X: [@0xHexor](https://x.com/0xHexor)
+- GitHub: [@0xhexor-ux](https://github.com/0xhexor-ux)
+
+---
+
+> Build → break → learn → ship → repeat.
